@@ -1,0 +1,31 @@
+#section1 {
+    padding-top:100px;
+    height:610px;
+    color: #fff; 
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg);
+    background-size: 100%;
+
+}
+.text{
+	font-size: 70px;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+
+}
+#section2{
+	background-repeat: no-repeat;
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);
+    background-attachment: scroll;
+    background-position: center center;    
+}
+.row{
+	text-decoration: underline;
+	font-size: 30px;
+	background-color: #f4eae9;
+	padding-bottom: 70px;
+	padding-left: 50px;
+}
+#row{
+	background-color: #f4eae9;
+	padding-left: 50px;
+	padding-top: 50px;
+}
